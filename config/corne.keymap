@@ -14,7 +14,7 @@
         compatible = "zmk,combos";
         combo_toggle_layer_2 {
             timeout-ms = <50>;
-            key-positions = <38 41>; // Positions of the two keys to press
+            key-positions = <37 40>; // Positions of the two keys to press
             bindings = <&tog 3>;
         };
     };
